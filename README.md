@@ -38,9 +38,9 @@ $$-2x + y + 2z = -3$$
 
 | Method | Elimination Complexity | Solution Complexity | Overall Complexity |
 | :--- | :--- | :--- | :--- |
-| **Gaussian Elimination** | [cite_start]$O(n^3/3)$ [cite: 225] | [cite_start]$O(n^2/2)$ [cite: 25] | [cite_start]$O(n^3)$ [cite: 225] |
-| **Gauss-Jordan** | [cite_start]$O(n^3/2)$ [cite: 225] | [cite_start]$O(1)$ [cite: 225] | [cite_start]$O(n^3)$ [cite: 225] |
-| **LU Decomposition** | [cite_start]$O(n^3/3)$ [cite: 225] | [cite_start]$O(n^2)$ per $b$ [cite: 225] | [cite_start]$O(n^3)$ [cite: 225] |
+| **Gaussian Elimination** | [cite_start]O(n^3/3) [cite: 225] | [cite_start]O(n^2/2) [cite: 25] | [cite_start]O(n^3) [cite: 225] |
+| **Gauss-Jordan** | [cite_start]O(n^3/2) [cite: 225] | [cite_start]O(1) [cite: 225] | [cite_start]O(n^3) [cite: 225] |
+| **LU Decomposition** | [cite_start]O(n^3/3) [cite: 225] | [cite_start]O(n^2) per b [cite: 225] | [cite_start]O(n^3) [cite: 225] |
 
 ---
 
