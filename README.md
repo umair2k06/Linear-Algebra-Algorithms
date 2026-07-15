@@ -50,4 +50,4 @@ Ensure you have a C++ compiler installed (such as `g++`).
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/your-username/Linear-Algebra-Algorithms.git](https://github.com/your-username/Linear-Algebra-Algorithms.git)
+   git clone [https://github.com/umair2k06/Linear-Algebra-Algorithms.git](https://github.com/umair/Linear-Algebra-Algorithms.git)
